@@ -1,2 +1,7 @@
 This is a file of colors
 
+1. Blue
+2. Green
+3. Yellow
+4. Orange
+5. Red
